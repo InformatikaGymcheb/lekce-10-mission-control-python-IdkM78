@@ -87,7 +87,7 @@ def simulator_pristani():
 # === HLAVNÍ PROGRAM ===
 # Zde si student vyzkoušej své funkce
 
-moje_vaha = 80
+moje_vaha = 60
 print(f"Moje váha na Měsíci: {vypocet_vahy(moje_vaha, 'mesic')} kg")
 
 # Spuštění simulátoru
